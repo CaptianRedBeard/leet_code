@@ -12,7 +12,7 @@ func TestIsPalindrome(t *testing.T) {
 	}{
 
 		{
-			x:      121,
+			x:      120,
 			output: true,
 		},
 		{
